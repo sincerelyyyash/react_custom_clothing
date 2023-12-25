@@ -8,7 +8,7 @@
 -> TailwindCSS - a popular utility-first CSS styling framework<br>
 -> Framer Motion - the most popular library used to bring your React website to life with animations<br>
 
-#Implented the following: <br>
+# Implemented the following: <br>
 -> Load, create and customize stunning 3D models and geometries with various lights, as well as understand the 3D world with a camera and positioning of an object in space. <br>
 -> Make your code reusable and scalable using Higher Order Components (HOCs) and other industry-standard best practices <br>
 -> Add custom color and file support. <br>
