@@ -1,5 +1,5 @@
 import Canvas from "./canvas";
-import Home from "./pages/home";
+import Home from "./pages/Home";
 import Customizer from "./pages/customizer";
 function App() {
 
